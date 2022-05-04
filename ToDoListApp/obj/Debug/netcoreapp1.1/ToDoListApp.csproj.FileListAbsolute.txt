@@ -1,0 +1,13 @@
+/Users/evgeniya/Desktop/epicodus/week6/to-do-list/ToDoListApp/bin/Debug/netcoreapp1.1/ToDoListApp.deps.json
+/Users/evgeniya/Desktop/epicodus/week6/to-do-list/ToDoListApp/bin/Debug/netcoreapp1.1/ToDoListApp.runtimeconfig.json
+/Users/evgeniya/Desktop/epicodus/week6/to-do-list/ToDoListApp/bin/Debug/netcoreapp1.1/ToDoListApp.runtimeconfig.dev.json
+/Users/evgeniya/Desktop/epicodus/week6/to-do-list/ToDoListApp/bin/Debug/netcoreapp1.1/ToDoListApp.dll
+/Users/evgeniya/Desktop/epicodus/week6/to-do-list/ToDoListApp/bin/Debug/netcoreapp1.1/ToDoListApp.pdb
+/Users/evgeniya/Desktop/epicodus/week6/to-do-list/ToDoListApp/obj/Debug/netcoreapp1.1/ToDoListApp.csproj.AssemblyReference.cache
+/Users/evgeniya/Desktop/epicodus/week6/to-do-list/ToDoListApp/obj/Debug/netcoreapp1.1/ToDoListApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgeniya/Desktop/epicodus/week6/to-do-list/ToDoListApp/obj/Debug/netcoreapp1.1/ToDoListApp.AssemblyInfoInputs.cache
+/Users/evgeniya/Desktop/epicodus/week6/to-do-list/ToDoListApp/obj/Debug/netcoreapp1.1/ToDoListApp.AssemblyInfo.cs
+/Users/evgeniya/Desktop/epicodus/week6/to-do-list/ToDoListApp/obj/Debug/netcoreapp1.1/ToDoListApp.csproj.CoreCompileInputs.cache
+/Users/evgeniya/Desktop/epicodus/week6/to-do-list/ToDoListApp/obj/Debug/netcoreapp1.1/ToDoListApp.dll
+/Users/evgeniya/Desktop/epicodus/week6/to-do-list/ToDoListApp/obj/Debug/netcoreapp1.1/ToDoListApp.pdb
+/Users/evgeniya/Desktop/epicodus/week6/to-do-list/ToDoListApp/obj/Debug/netcoreapp1.1/ToDoListApp.genruntimeconfig.cache
